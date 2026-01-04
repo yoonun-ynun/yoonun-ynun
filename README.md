@@ -17,7 +17,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-ashen-mu-52.vercel.app/api/top-langs/?username=yoonun-ynun&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-xi-53.vercel.app/api/top-langs/?username=yoonun-ynun&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ━━━━━━━━━━ 📌 Frameworks ━━━━━━━━━━<br/><br/>
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -25,6 +25,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 <br/><br/>
 ━━━━━━━━━━ 📌 Stats ━━━━━━━━━━<br/><br/>
-![GitHub stats](https://github-readme-stats-ashen-mu-52.vercel.app/api?username=yoonun-ynun&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-six-xi-53.vercel.app/api?username=yoonun-ynun&show_icons=true&theme=radical)
 </div>
 
